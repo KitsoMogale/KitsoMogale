@@ -1,15 +1,15 @@
   I’m Kitso Mogale
-- Im an aspiring software developer.
-- Im currently enrolled in the Software Development course from CodeSpace.
-- I build responsive websites and a lot of clones of web apps such as Twitter and Instagram.Looking forward to clone Uber.
+-Certified Software Developer
+- I build responsive websites and mobile apps.
 
 - 
 - My best work so far:
 - https://github.com/KitsoMogale/Twitter_Clone_Official
-- https://github.com/KitsoMogale/BCL_COMMUNITY_PROJECT_01
+- https://github.com/KitsoMogale/KITMOG510_BCL2401_GROUPA_KitsoMogale1_FSJ03
+- https://github.com/kutlwano10/Reka-App
 
-Communications
-kitsomogale11@gmail.com
+Communications: 
+kitsomogale19@gmail.com
 whatsapp: 0715701986
 
 
