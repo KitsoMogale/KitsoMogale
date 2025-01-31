@@ -1,6 +1,7 @@
   I’m Kitso Mogale
 - Certified Software Developer
 - I build responsive websites and mobile apps.
+- Jesus is King and my Saviour.
   
 - My best work so far:
 - https://github.com/KitsoMogale/Twitter_Clone_Official
