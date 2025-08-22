@@ -13,6 +13,6 @@ Communications:
 kitsomogale19@gmail.com
 whatsapp: 0715701986
 
-Jesus is King and my Saviour. He can save you too.
+Jesus is King and my Saviour. He can save you too. Infact, He already saved you, you just have to receive it in faith.
 
 
