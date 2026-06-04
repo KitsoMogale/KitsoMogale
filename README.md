@@ -1,7 +1,7 @@
  Hola, I’m Kitso Mogale
  
  Certified Software Developer
- I build responsive websites and mobile apps.
+ I build websites and mobile apps.
   
  My best work so far:
 - https://modernhealth25.netlify.app
