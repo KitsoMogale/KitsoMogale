@@ -1,7 +1,6 @@
  Hola, I’m Kitso Mogale
  
- Certified Software Developer
- I build websites and mobile apps.
+ A Certified Software Developer, I build websites and mobile apps.
   
  My best work so far:
 - https://modernhealth25.netlify.app
